@@ -5,6 +5,7 @@ I developed a project with the react front-end framework. A table appears in the
 { PurchaseOrderStatus }
 { PurchaseOrderDetails } 
 fields for the specific selected order. I also used CSS and Bootstrap in order to give project a nice look.
+MAKE SURE YOU USE "npm i" COMMAND BEFORE STARTING THE PROJECT!
 
 
 # Getting Started with Create React App
